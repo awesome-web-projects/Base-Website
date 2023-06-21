@@ -1,3 +1,3 @@
-# Hall7-Website
+# Base-Website
 
-Hall 7 public facing frontend codebase
+React public facing frontend codebase
